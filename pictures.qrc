@@ -1,0 +1,43 @@
+<RCC>
+    <qresource prefix="/mainLogo">
+        <file>resources/1.png</file>
+        <file>resources/2.PNG</file>
+        <file>resources/3.PNG</file>
+        <file>resources/4.PNG</file>
+        <file>resources/5.png</file>
+        <file>resources/6.PNG</file>
+        <file>resources/2.png</file>
+        <file>resources/7.png</file>
+        <file>resources/8.png</file>
+        <file>resources/9.png</file>
+        <file>resources/10.png</file>
+        <file>resources/12.png</file>
+        <file>resources/14.png</file>
+        <file>resources/15.png</file>
+    </qresource>
+    <qresource prefix="/companyLogo">
+        <file>resources/AirBaltic.png</file>
+        <file>resources/Alitalia.png</file>
+        <file>resources/Belavia.png</file>
+        <file>resources/BritishAirways.png</file>
+        <file>resources/CebuPacific.png</file>
+        <file>resources/Delta.png</file>
+        <file>resources/Finnair.png</file>
+        <file>resources/Flyone.png</file>
+        <file>resources/jetBlue.png</file>
+        <file>resources/KLM.png</file>
+        <file>resources/Lufthansa.png</file>
+        <file>resources/MAY.png</file>
+        <file>resources/Ryanair.png</file>
+        <file>resources/SkyUp.png</file>
+        <file>resources/Wizz.png</file>
+    </qresource>
+    <qresource prefix="/people">
+        <file>resources/people/2/Adult.png</file>
+        <file>resources/people/2/Child.png</file>
+        <file>resources/people/2/Kid.png</file>
+    </qresource>
+    <qresource prefix="/planeWay">
+        <file>resources/planeWay.png</file>
+    </qresource>
+</RCC>
