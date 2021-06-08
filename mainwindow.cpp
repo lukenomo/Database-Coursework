@@ -434,9 +434,3 @@ void MainWindow::showAdminPanelButton()
       ui->pushButtonAdminPanel->hide();
     }
 }
-
-
-void MainWindow::slot_closeApp()
-{
-  this->~MainWindow();
-}
