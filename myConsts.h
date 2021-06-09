@@ -79,7 +79,7 @@ namespace mconst
   const QString COMPANY_LOGO_DIR {":/companyLogo/resources/"};
   const QString WAY_PIC          {":/planeWay/resources/planeWay.png"};
   const QString LOGO_2           {":/mainLogo/resources/6.PNG"};
-  const QString DB_PATH          {"D:\\SQLite\\SQLiteStudio\\Mydatabases\\AirDataBase"};
+  const QString DB_PATH          {"->absolute_path_to_db<-"};
 }
 
 #endif // MYCONSTS_H
