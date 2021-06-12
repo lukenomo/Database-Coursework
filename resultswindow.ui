@@ -500,7 +500,7 @@ font: 10pt &quot;Britannic Bold&quot;;</string>
 font: 8pt &quot;Britannic Bold&quot;;</string>
      </property>
      <property name="text">
-      <string>Departure country</string>
+      <string>Departure airport</string>
      </property>
      <property name="alignment">
       <set>Qt::AlignCenter</set>
@@ -520,7 +520,7 @@ font: 8pt &quot;Britannic Bold&quot;;</string>
 font: 8pt &quot;Britannic Bold&quot;;</string>
      </property>
      <property name="text">
-      <string>Departure country</string>
+      <string>Departure airport</string>
      </property>
      <property name="alignment">
       <set>Qt::AlignCenter</set>
@@ -540,7 +540,7 @@ font: 8pt &quot;Britannic Bold&quot;;</string>
 font: 8pt &quot;Britannic Bold&quot;;</string>
      </property>
      <property name="text">
-      <string>Arrival country</string>
+      <string>Arrival airport</string>
      </property>
      <property name="alignment">
       <set>Qt::AlignCenter</set>
@@ -560,7 +560,7 @@ font: 8pt &quot;Britannic Bold&quot;;</string>
 font: 8pt &quot;Britannic Bold&quot;;</string>
      </property>
      <property name="text">
-      <string>Arrival country</string>
+      <string>Arrival airport</string>
      </property>
      <property name="alignment">
       <set>Qt::AlignCenter</set>
