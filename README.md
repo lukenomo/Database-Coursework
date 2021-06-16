@@ -1,7 +1,7 @@
 # Database-Coursework
 
 ## About the program
-The program "Aviakassa" is a course project in the discipline "Databases and Database Management Systems" in which I applied my knowledge of Qt, C++, OOP and curiously enough SQL
+The program "Aviakassa" is a course project by discipline "Databases and Database Management Systems" in which I applied my knowledge of Qt, C++, OOP and curiously enough SQL
 
 ## What this program was created for
 The program was written not only for the reason "I need to write a coursework on the database" but also with the desire to apply my own knowledge and skills in creating multi-file applications with an object-oriented approach to writing C++ code.
